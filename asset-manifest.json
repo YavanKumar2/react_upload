@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.180670e5.css",
-    "main.js": "/static/js/main.57e0a7be.js",
-    "static/js/787.f426c1db.chunk.js": "/static/js/787.f426c1db.chunk.js",
-    "static/media/kmit.jpeg": "/static/media/kmit.398a2ad727146d27d1ac.jpeg",
-    "static/media/science.png": "/static/media/science.dbe75aa092ebcbd95c43.png",
-    "static/media/media.jpg": "/static/media/media.26cf8a422db73196dfae.jpg",
-    "static/media/Social.jpg": "/static/media/Social.8f3f85a8d3c02d8e33f2.jpg",
-    "static/media/environmental.jpg": "/static/media/environmental.45622ca198fcec899802.jpg",
-    "static/media/business.jpg": "/static/media/business.7f5fe2d05214cac988f2.jpg",
-    "static/media/computer.jpg": "/static/media/computer.9d73f78333b0eab28429.jpg",
-    "static/media/organic.jpg": "/static/media/organic.5d4a20f7b380f9975bf3.jpg",
-    "static/media/forensics.jpg": "/static/media/forensics.f031fceee47623aa86c0.jpg",
-    "static/media/medical.jpg": "/static/media/medical.17cce336dba857d35902.jpg",
-    "index.html": "/index.html",
-    "main.180670e5.css.map": "/static/css/main.180670e5.css.map",
-    "main.57e0a7be.js.map": "/static/js/main.57e0a7be.js.map",
-    "787.f426c1db.chunk.js.map": "/static/js/787.f426c1db.chunk.js.map"
+    "main.css": "/react_upload/static/css/main.180670e5.css",
+    "main.js": "/react_upload/static/js/main.6bdc9d43.js",
+    "static/js/787.f426c1db.chunk.js": "/react_upload/static/js/787.f426c1db.chunk.js",
+    "static/media/kmit.jpeg": "/react_upload/static/media/kmit.398a2ad727146d27d1ac.jpeg",
+    "static/media/science.png": "/react_upload/static/media/science.dbe75aa092ebcbd95c43.png",
+    "static/media/media.jpg": "/react_upload/static/media/media.26cf8a422db73196dfae.jpg",
+    "static/media/Social.jpg": "/react_upload/static/media/Social.8f3f85a8d3c02d8e33f2.jpg",
+    "static/media/environmental.jpg": "/react_upload/static/media/environmental.45622ca198fcec899802.jpg",
+    "static/media/business.jpg": "/react_upload/static/media/business.7f5fe2d05214cac988f2.jpg",
+    "static/media/computer.jpg": "/react_upload/static/media/computer.9d73f78333b0eab28429.jpg",
+    "static/media/organic.jpg": "/react_upload/static/media/organic.5d4a20f7b380f9975bf3.jpg",
+    "static/media/forensics.jpg": "/react_upload/static/media/forensics.f031fceee47623aa86c0.jpg",
+    "static/media/medical.jpg": "/react_upload/static/media/medical.17cce336dba857d35902.jpg",
+    "index.html": "/react_upload/index.html",
+    "main.180670e5.css.map": "/react_upload/static/css/main.180670e5.css.map",
+    "main.6bdc9d43.js.map": "/react_upload/static/js/main.6bdc9d43.js.map",
+    "787.f426c1db.chunk.js.map": "/react_upload/static/js/787.f426c1db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.180670e5.css",
-    "static/js/main.57e0a7be.js"
+    "static/js/main.6bdc9d43.js"
   ]
 }
