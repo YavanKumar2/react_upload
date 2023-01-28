@@ -1,0 +1,94 @@
+*{
+    /* background-color: #712CF9; */
+    margin:0;
+    padding:0;
+    
+}
+.navbarBackground{
+    background-color: #712CF9;
+    font-size:15px;
+}
+.container-fluid .navbar-brand{
+    font-size: 15px;
+}
+.navbar .container-fluid{
+    width: 100%;
+}
+#navbarSupportedContent button{
+    font-size: 14px;
+}
+.navbar-nav{
+    margin-left: 33%;
+}
+.bi{
+    font-size:28px;
+    color: white;
+
+}
+.header{
+    margin-left:2%;
+    margin-top:2%;
+    margin-bottom:3%;
+}
+.header p{
+    font-size: 16px;
+}
+.header .carousel{
+    width:50%;
+    margin-left:24%;
+    margin-top:2%;
+}
+.universitiesSelect{
+    display:flex;
+    align-items: center;
+    margin-left:2%;
+    margin-top:4%;
+    padding-bottom: 2%;
+
+}
+.universitiesSelect label{
+    font-size:14px;
+}
+.universitiesSelect select{
+    font-size:14px;
+}
+#selectUniversity{
+    width:25%;
+    margin-left:1%;
+}
+#adjustButton{
+    margin-left:14%;
+    
+}
+#adjustButton a{
+    font-size: 14px;
+
+}
+
+#searchTopic{
+    padding-top:3px;
+    padding-bottom:5px;
+    padding-left: 11px;
+    width:20%;
+    margin-left:1%;
+    
+}
+.sort{
+    margin-left:2%;
+    display: flex;
+    align-items:center;
+    margin-top:3%;
+    margin-bottom: 3%;    
+}
+.sort label{
+    font-size: 14px;
+}
+#researchTable{
+    width: 75%;
+    margin-left: 12%;
+    margin-top: 3%;
+}
+#researchTable nav{
+    margin-left:40%;
+    
+}

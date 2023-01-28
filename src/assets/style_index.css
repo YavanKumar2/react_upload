@@ -1,0 +1,115 @@
+*{
+    
+    margin:0;
+    padding:0;
+    font-size: 14px;
+    
+}
+.navbar{
+    background-color: #712CF9;
+    font-size:14px;
+}
+
+
+.navbar-nav{
+    margin-left: 33%;
+}
+.navbar .container-fluid{
+    width: 100%;
+}
+.bi{
+    font-size:28px;
+    color: white;
+
+}
+#profile{
+    margin-right: 4%;
+}
+#profile i{
+    font-size: 21px;
+}
+#profile li ul{
+    margin-left: -48px;
+}
+
+#header{
+    
+    display: flex;
+    padding-bottom:92px;
+    
+}
+#header #carouselExampleCaptions{
+    width:50%;
+    margin-left:7%;
+    margin-top:2%;
+}
+#card{
+    margin-left:6%;
+    margin-top:2%;
+    height:69vh;
+    margin-right: 4%;
+}
+#card .card-header{
+    background-color:#712CF9;
+    color: white;
+}
+#whatsNewCard{
+    margin-left:6%;
+    margin-top:2%;
+}
+.cards-wrapper{
+    display:flex;
+}
+#ResearchHighlights{
+    padding-bottom: 37px;
+    margin-top: -3%;
+}
+
+#ResearchHighlights h2{
+    margin-left: 1%;
+}
+.research_cards
+{
+    margin: 0 .5em;
+    width: calc(100%/3);
+    
+}
+.research_cards img{
+    height:265px;
+}
+#ContactUS{
+    width:50%;
+    margin-left:2%;
+    margin-bottom:5%;
+}
+.scrollbar{
+    
+    overflow: hidden;
+    overflow-y:scroll;
+}
+.contactUsTextSize i{
+    font-size: 21px;
+    
+}
+#dropdown-basic{
+    background-color:#712CF9;
+    border: none;
+}
+
+
+footer{
+    background-color:#712CF9;
+}
+#footerLinks a{
+    text-decoration: none;
+
+}
+.list-unstyled a{
+    font-size: 23px;
+}
+#twitter{
+    margin-left: 100%;
+}
+#google{
+    margin-left: 204%;
+}
