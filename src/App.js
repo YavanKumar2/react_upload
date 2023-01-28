@@ -14,7 +14,7 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <Routes>
+      <Routes basename ="/react_upload">
         <Route path="/" element={<Blhome />} />
         <Route path="/ResearchAreas" element={<Blresearch />} />
         <Route path="/Universities" element={<Bluniversity />} />
