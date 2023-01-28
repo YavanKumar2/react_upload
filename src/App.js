@@ -7,14 +7,14 @@ import Login from './pages/Login';
 import Alhome from './pages/Alhome';
 import Alresearch from './pages/Alresearch';
 import Aluniversity from './pages/Aluniversity';
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import './App.css';
 
 
 function App() {
   return (
     <Router>
-      <Routes basename ="/react_upload">
+      <Routes>
         <Route path="/" element={<Blhome />} />
         <Route path="/ResearchAreas" element={<Blresearch />} />
         <Route path="/Universities" element={<Bluniversity />} />
