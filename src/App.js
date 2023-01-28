@@ -8,7 +8,6 @@ import Alhome from './pages/Alhome';
 import Alresearch from './pages/Alresearch';
 import Aluniversity from './pages/Aluniversity';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-
 import './App.css';
 
 
